@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raul-Toache
+- 👋 Hi, I’m Raul Eduardo Toache Thomas
 - 👀 I’m interested in software development and data analysis. Especially in languages like C#, Java, C/C++, and Python. 
 - 🌱 I’m currently learning design patterns (MVC & MVVM) in C#. Then, I am looking into vision.
 - 💞️ I’m looking to collaborate on C# projects primarily.
